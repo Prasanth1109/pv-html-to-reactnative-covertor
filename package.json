@@ -1,0 +1,39 @@
+{
+  "name": "pv-html-to-reactnative-covertor",
+  "version": "1.0.0",
+  "description": "Convert HTML-like layouts to React Native components.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prasanth1109/pv-html-to-reactnative-covertor.git"
+  },
+  "keywords": [
+    "react-native",
+    "html-renderer",
+    "html",
+    "converter",
+    "react"
+  ],
+  "license": "MIT",
+  "author": "Prasanth K <planandview@gmail.com>",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.72.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "react": "^19.1.0",
+    "react-native": "^0.80.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "pv-html-to-reactnative-covertor": "file:pv-html-to-reactnative-covertor-1.0.0.tgz"
+  }
+}
