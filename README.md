@@ -89,4 +89,4 @@ export default function App() {
 - Written in **TypeScript** (ESNext).
 
 ## License
-ISC © 2025 Prasanth K
+MIT © 2025 Prasanth K
